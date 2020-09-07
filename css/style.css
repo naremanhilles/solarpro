@@ -3814,14 +3814,16 @@ figure.snip1190 {
 }
 
 .foot-spec span {
-    color: #b7d8ff;
-    text-transform: uppercase;
+    color: #2e2e2e;
     font-family: 'Cairo', sans-serif;
     font-weight: 700;
     font-size: 18.5px;
 }
+.lk{
+    height: 90px;
+}
 .foot-social ul {
-    margin-left: 53px;
+    margin-left: 138px;
     padding: 0px;
 }
 .foot-social ul li {
@@ -3829,6 +3831,7 @@ figure.snip1190 {
     float: left;
     padding-right: 10px;
 }
+
 .foot-social ul li i {
     font-size: 16px;
     width: 32px;
@@ -3842,11 +3845,13 @@ figure.snip1190 {
 }
 
 .foot-sec2 p {
-    font-size: 13.5px;
+    font-size: 17.5px;
     line-height: 24px;
     font-weight: 400;
-
     color: #ffffff;
     text-align: center;
     font-family: 'Cairo', sans-serif;
+}
+.foot-com{
+padding-bottom: 20px;
 }
