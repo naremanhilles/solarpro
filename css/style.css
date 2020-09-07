@@ -3826,6 +3826,12 @@ figure.snip1190 {
     margin-left: 138px;
     padding: 0px;
 }
+@media only screen and (max-width: 768px) {
+    .foot-social ul {
+        margin-left: 124px;
+        padding: 0px;
+    }
+}
 .foot-social ul li {
     list-style-type: none;
     float: left;
