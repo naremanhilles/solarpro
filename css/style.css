@@ -543,7 +543,7 @@ button[type="submit"] {
 
         .navbar-default .navbar-brand img {
             height: 80px;
-            /* max-width: 60%; */
+            max-width: 72%;
             /* -webkit-filter: brightness(0) invert(1); */
             /* filter: brightness(7) invert(1); */
         }
@@ -3729,7 +3729,7 @@ figure.snip1190 {
     background: #3b5998;
 }
 .tw1 {
-    background: #1da1f2;
+    background: #FFFC00;
 }
 .wa1 {
     background: #34af23;
@@ -3799,7 +3799,7 @@ figure.snip1190 {
 
 
 .footer {
-    background: rgb( 216, 39, 45);
+    /* background: rgb( 216, 39, 45); */
     position: relative;
     overflow: hidden;
     /* padding-bottom: 85px; */
