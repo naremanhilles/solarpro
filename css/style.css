@@ -542,8 +542,10 @@ button[type="submit"] {
     }
 
         .navbar-default .navbar-brand img {
-            height: 80px;
-            max-width: 72%;
+            height: 50px;
+            max-width: 65%;
+            margin-top: 14px;
+            margin-right: -18px;
             /* -webkit-filter: brightness(0) invert(1); */
             /* filter: brightness(7) invert(1); */
         }
@@ -1140,7 +1142,7 @@ button[type="submit"] {
             overflow: visible !important;
             vertical-align: text-top;
             list-style: none;
-            transform: translateY(-7px);
+            /* transform: translateY(-7px); */
         }
 
             .hero-text-rotate .slogan ul li {
@@ -3730,6 +3732,7 @@ figure.snip1190 {
 }
 .tw1 {
     background: #FFFC00;
+    background: #e6e40af5;
 }
 .wa1 {
     background: #34af23;
@@ -3860,4 +3863,16 @@ figure.snip1190 {
 }
 .foot-com{
 padding-bottom: 20px;
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .navbar-default .navbar-brand img{
+    height: 50px;
+    max-width: 51%;
+    margin-top: -59px;
+    margin-right: 0px;
+    }
 }
