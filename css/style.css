@@ -1840,11 +1840,12 @@ button[type="submit"] {
 
     .features .features-box {
         width: 100%;
-        float: right;
+        text-align: center;
+        /* float: right; */
     }
 
         .features .features-box img {
-            height: 80px;
+            height: 125px;
         }
 
         .features .features-box .content-heading {
